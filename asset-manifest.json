@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-SpeedTest-Project/static/css/main.79555c13.css",
-    "main.js": "/React-SpeedTest-Project/static/js/main.a93322aa.js",
+    "main.js": "/React-SpeedTest-Project/static/js/main.06e26a61.js",
     "static/media/Lato-Regular.ttf": "/React-SpeedTest-Project/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "static/media/YekanV3.ttf": "/React-SpeedTest-Project/static/media/YekanV3.f6a0838b6690eaaa2898.ttf",
     "static/media/YekanV3.eot": "/React-SpeedTest-Project/static/media/YekanV3.9db58f99bcd38a0e67b6.eot",
@@ -12,10 +12,10 @@
     "static/media/time.webp": "/React-SpeedTest-Project/static/media/time.36b94b99127028d6f41b.webp",
     "static/media/download.webp": "/React-SpeedTest-Project/static/media/download.03822982c7e50d194af4.webp",
     "main.79555c13.css.map": "/React-SpeedTest-Project/static/css/main.79555c13.css.map",
-    "main.a93322aa.js.map": "/React-SpeedTest-Project/static/js/main.a93322aa.js.map"
+    "main.06e26a61.js.map": "/React-SpeedTest-Project/static/js/main.06e26a61.js.map"
   },
   "entrypoints": [
     "static/css/main.79555c13.css",
-    "static/js/main.a93322aa.js"
+    "static/js/main.06e26a61.js"
   ]
 }
