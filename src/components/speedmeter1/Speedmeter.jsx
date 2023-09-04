@@ -23,7 +23,7 @@ const Speedmeter = ({ downloadNumber,uploadNumber,switchNum}) => {
        autoFit: true,
       
         range: {
-            color: "#1B70EE",
+            color: ["#1B70EE","#cce0ff"],
 
             width: 32,
         },
@@ -52,7 +52,10 @@ const Speedmeter = ({ downloadNumber,uploadNumber,switchNum}) => {
 
             },
 
+         
+            tickInterval:0.1
         },
+        
         statistic: {
             content: {
                 formatter: ({ percent }) => `${percent ? percent * 100 : "--"}`,
@@ -60,7 +63,7 @@ const Speedmeter = ({ downloadNumber,uploadNumber,switchNum}) => {
             style: {
 
                 color: 'rgba(0,0,0,0.65)',
-                fontSize: 60,
+               
             },
         },
         gaugeStyle: {
